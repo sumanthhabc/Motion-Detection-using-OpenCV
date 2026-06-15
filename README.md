@@ -34,7 +34,6 @@ This project can:
 ```bash
 mini-smart-camera/
 │
-├── LICENSE
 ├── main.py
 ├── README.md
 ├── requirements.txt
